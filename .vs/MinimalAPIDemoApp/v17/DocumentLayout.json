@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|c:\\users\\giolga\\source\\repos\\minimalapidemoapp\\dataaccess\\data\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|c:\\users\\giolga\\source\\repos\\minimalapidemoapp\\dataaccess\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|c:\\users\\giolga\\source\\repos\\minimalapidemoapp\\dataaccess\\dbaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF718FBA-5304-45F0-8157-DDEB38AD6B39}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dbaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\Data\\IUserData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\IUserData.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\Data\\IUserData.cs",
+              "RelativeToolTip": "DataAccess\\Data\\IUserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:28:34.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\Data\\UserData.cs",
+              "RelativeToolTip": "DataAccess\\Data\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:10:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "DataAccess\\DbAccess\\SqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:47:17.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

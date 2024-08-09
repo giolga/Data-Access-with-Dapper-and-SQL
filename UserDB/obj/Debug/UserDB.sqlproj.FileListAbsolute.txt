@@ -1,0 +1,10 @@
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.pdb
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\Model.xml
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\refactor.xml
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\postdeploy.sql
+C:\Users\GioLGA\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\predeploy.sql
