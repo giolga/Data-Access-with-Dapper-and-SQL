@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLhNFedex70=",
+  "dgSpecHash": "/lmSEVhow/E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GioLGA\\source\\repos\\MinimalAPIDemoApp\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\GioLGA\\Desktop\\MinimalAPIDemoApp\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GioLGA\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
